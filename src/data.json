@@ -1,0 +1,84 @@
+{
+  "myArray": [
+    {
+      "text": "WEB DEVELOPER in process, currently studying at Webit Grenaa as a frontend developer. I'm enjoying life as a student again, but am also very eager to get out into the real world and test myself once again. Goal right now is simple: Learn alot quick (and have fun).",
+      "link": "#webdevSection",
+      "linkText": "See some of my projects"
+    },
+    {
+      "text": "JOURNALISM has been my main focus since 2014, where i started my studies at Danish School of Media and Journalism. In 2021, I mostly did stories on technology, the climate and Mark Zuckerberg. Tech grabbed me and pulled me in. \n Now here I am...",
+      "link": "#journosection",
+      "linkText": "See some journalism"
+    },
+    {
+      "text": "If you want to CONTACT ME - it's very simple. Just click the link below to see all the ways to call, text and socialize with me. I might be a computer-person, but i still (sort of) like people.",
+      "link": "#contactSection",
+      "linkText": "Find me here"
+    }
+  ],
+
+  "buttonImg": [
+    "../assets/buttonimg1.svg",
+    "../assets/buttonimg2.svg",
+    "../assets/buttonimg3.svg"
+  ],
+
+  "bucket": [
+    "../assets/paint-bucket_yellow.svg",
+    "../assets/paint-bucket_cyan.svg",
+    "../assets/paint-bucket_orange.svg"
+  ],
+
+  "projects": [
+    "../assets/whackadonki.gif",
+    "../assets/ninja-game.svg",
+    "../assets/magic8ballz.gif"
+  ],
+
+  "journoimgs": [
+    "../assets/microphone-color.svg",
+    "../assets/newspaper_image.svg"
+  ],
+
+  "radioinner": [
+    "I loved radio and podcasts, and was lucky enough to be able to make everything from newsstories, long portraits and a podcasts about tech.",
+    "../assets/mike.jpg",
+    "../assets/bitmojn.gif"
+    
+  ],
+  
+  "paperinner": [
+    "It's cool to see stories you typed yourself on paper. I did both local newsstories about the cat in the tree to detailed stories about the Facebook leaks.",
+    "../assets/grow'.jpg",
+    "../assets/louise.jpg"
+  ],
+
+
+
+  "closercross": "../assets/crosscloser.svg",
+
+  "headlines": [
+    "<span>Welcome!</span> Click to read more about me",
+    "<span>See what i built</span>Click the buckets",
+    "<span>I'm also a journalist</span>Click the mic and paper",
+    "<span>Feel free to contact me</span>Choose how here:"
+  ],
+  
+  "contactFormInners": [
+    "+45 40 42 90 50",
+    "fabriciusjanus@protonmail.com",
+    "JanusFabricius"
+  ],
+
+  "contactFormInnerHref": [
+    "tel:+454049050",
+    "mailto:fabriciusjanus@protonmail.com",
+    "https://www.linkedin.com/in/janusfnielsen/"
+  ],
+
+  "contacsIcons": [
+    "../assets/phone_img.svg",
+    "../assets/email_icon.svg",
+    "../assets/linkedin.svg"
+  ]
+}
